@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\ramse\Desktop\C# Ödevler\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
